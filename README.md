@@ -107,5 +107,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+![WhatsApp Image 2024-08-10 at 9 27 38 PM](https://github.com/user-attachments/assets/22fb5e08-2ad8-4563-8371-7d5ee32c77e7)
+![WhatsApp Image 2024-08-10 at 9 27 38 PM (4)](https://github.com/user-attachments/assets/9e1eff6d-33b7-4c3d-95a6-86b441d34463)
+![WhatsApp Image 2024-08-10 at 9 27 38 PM (3)](https://github.com/user-attachments/assets/28cb36b2-88dd-4df7-814b-9394bda39dee)
+![WhatsApp Image 2024-08-10 at 9 27 38 PM (2)](https://github.com/user-attachments/assets/24bbabab-d591-4acb-a322-5b0e2578f75e)
+![WhatsApp Image 2024-08-10 at 9 27 38 PM (1)](https://github.com/user-attachments/assets/93d124f2-e607-4d2b-b2e5-fb27a4734b8b)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
